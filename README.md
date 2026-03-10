@@ -1,5 +1,5 @@
 # tmdb-helper-yawsp
-Tento repozitář obsahuje vlastní `.json` přehrávač pro doplněk TMDb Helper v Kodi. Umožňuje automatizované vyhledávání filmů a seriálů na Webshare prostřednictvím doplňku YAWsP. Hledá přesné názvy, automaticky doplňuje čísla sérií a epizod a filtruje výsledky dle velikosti souboru.
+Tento repozitář obsahuje jednoduchý `.json` přehrávač pro doplněk TMDb Helper v Kodi. Umožňuje automatizované vyhledávání filmů a seriálů na Webshare prostřednictvím doplňku YAWsP. Hledá přesné názvy, automaticky doplňuje čísla sérií a epizod a filtruje výsledky dle velikosti souboru.
 
 *Vytvořeno ve spolupráci s umělou inteligencí.*
 
@@ -11,7 +11,7 @@ Máte dvě možnosti instalace. Vyberte si tu, která vám vyhovuje více (pro A
 Toto je nejjednodušší způsob, jak přehrávač nainstalovat bez nutnosti ručně kopírovat soubory do skrytých složek systému.
 
 1. Otevřete TMDb Helper doplněk.
-2. V levém menu vyberte sekci **Přehrávače (Players)**.
+2. V levém menu vyberte **Přehrávače (Players)**.
 3. Klikněte na **Update players from URL**.
 4. Do vyskakovacího okna vložte odkaz na ZIP soubor tohoto repozitáře:
    `https://github.com/TVUJ_NICK/TVUJ_REPOZITAR/archive/refs/heads/main.zip`
