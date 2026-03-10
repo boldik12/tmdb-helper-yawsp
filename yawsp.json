@@ -1,11 +1,11 @@
 {
-  "name": "YAWsP",
+  "name": "YAWsP (Největší videa)",
   "plugin": "plugin.video.yawsp",
   "priority": 100,
   "is_resolvable": false,
-  "search_movie": "plugin://plugin.video.yawsp/?action=search&what={title}%20{year}&sort=largest",
-  "search_show": "plugin://plugin.video.yawsp/?action=search&what={showname}&sort=largest",
-  "search_episode": "plugin://plugin.video.yawsp/?action=search&what={showname}%20s{season}e{episode}&sort=largest",
+  "search_movie": "plugin://plugin.video.yawsp/?action=search&what={title}%20{year}&category=video&sort=largest",
+  "search_show": "plugin://plugin.video.yawsp/?action=search&what={showname}&category=video&sort=largest",
+  "search_episode": "plugin://plugin.video.yawsp/?action=search&what={showname}%20s{season}e{episode}&category=video&sort=largest",
   "fallback": {
     "play_movie": "yawsp.json search_movie",
     "play_show": "yawsp.json search_show",
