@@ -27,4 +27,6 @@ Máte dvě možnosti instalace.
 4. Restartujte Kodi.
 5. V nastavení TMDb Helper - players nyní uvidíte YAWsP v nabídce přehrávačů.
 
-⚠️ **Limitace vyhledávání:** Berte prosím na vědomí, že se jedná o velmi **jednoduché textové vyhledávání**. Z toho důvodu se může stát, že u některých filmů či seriálů (zejména těch s příliš obecným, krátkým nebo cizojazyčným názvem) se ve výsledcích mohou zobrazit nesouvisející soubory. 
+⚠️ **Limitace vyhledávání:** Berte prosím na vědomí, že se jedná o velmi **jednoduché textové vyhledávání**. Z toho důvodu se může stát, že u některých filmů či seriálů (zejména těch s příliš obecným, krátkým nebo cizojazyčným názvem) se ve výsledcích mohou zobrazit nesouvisející soubory.
+
+**Pro lepšní výsledky doporučuji nechat jazyk TMDb Helper v angličtině.**
